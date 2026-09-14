@@ -34,3 +34,4 @@ print(a, b, c, type(a))
 # 리스트 변환
 a = list(map(int, input().split()))
 print(a, b, c, type(a))
+
