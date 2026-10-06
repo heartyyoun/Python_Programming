@@ -17,6 +17,8 @@
 
 # math 모듈: 수학 계산에 필요한 함수와 상수를 제공하는 표준 라이브러리
 
+
+
 import math
 
 print(dir(math))
